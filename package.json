@@ -1,0 +1,19 @@
+{
+  "name": "mike-lab",
+  "version": "1.0.0",
+  "description": "CIS486-MIKE",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrimsonHog/probable-invention.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrimsonHog/probable-invention/issues"
+  },
+  "homepage": "https://github.com/CrimsonHog/probable-invention#readme"
+}
